@@ -1,5 +1,9 @@
 {
 	"author": "Jane Doe",
+	"description": "A project that does something awesome",
+	"keywords": ["descriptive", "related", "words", "freecodecamp"],
+	"license": "hands off",
+	"version": "1.2.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
